@@ -19,7 +19,7 @@
 - 🗃️ Hibernate & JPA for persistence
 - 🐫 Apache Camel for integration patterns
 - 📡 Kafka for event-driven communication
-- 🔐 Spring Security with Keycloak and OAuth2for IAM
+- 🔐 Spring Security with Keycloak and OAuth2 for IAM
 
 ### ☁️ Cloud & DevOps
 - AWS (S3, EC2, Lambda, RDS, Glue)
@@ -28,7 +28,7 @@
 
 ### 📊 Data Engineering
 - Apache Spark, Apache Airflow
-- ETL Pipelines, Data Lakes, Data Warehousing
+- ETL Pipelines, Data Lakehouses, Data Lakes, Data Warehousing
 - Kafka Streams, AWS Glue, Redshift
 
 ---
