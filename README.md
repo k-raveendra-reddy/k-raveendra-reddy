@@ -26,7 +26,13 @@
 - ☁️ AWS (S3, EC2, Lambda, RDS, Glue)  
 - 🐳 Docker & 🧱 Kubernetes  
 - ⚙️ Terraform for infrastructure as code  
-- 🔄 CI/CD with GitHub Actions & Jenkins  
+- 🔄 CI/CD with GitHub Actions & Jenkins
+
+### 📦 Containerization & Kubernetes
+- 🐳 Docker for containerization  
+- 🧱 Kubernetes for orchestration  
+- 📦 Helm for Kubernetes package management  
+- 🔁 Skaffold & Tilt for local Kubernetes development  
 
 ### 📊 Data Engineering & Analytics
 - ⚡ Apache Spark for distributed processing  
@@ -35,7 +41,14 @@
 - 🔄 Kafka Streams for real-time data flow  
 - 🧬 AWS Glue & Redshift for data transformation & analytics  
 - 🔍 **Query Engines**: Dremio, Presto, Trino  
-- 🌐 **Query Federation**: Virtual datasets across cloud & on-prem with Dremio  
+- 🌐 **Query Federation**: Virtual datasets across cloud & on-prem with Dremio
+
+### 📈 Observability & Monitoring
+- 📊 Prometheus for metrics collection  
+- 📉 Grafana for dashboards and visualization  
+- 📦 ELK Stack (Elasticsearch, Logstash, Kibana) for log aggregation  
+- 🔍 OpenTelemetry for distributed tracing  
+- 🛡️ Spring Boot Actuator for application health checks  
 
 
 ---
