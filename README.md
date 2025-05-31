@@ -21,15 +21,22 @@
 - 📡 Kafka for event-driven communication
 - 🔐 Spring Security with Keycloak and OAuth2 for IAM
 
-### ☁️ Cloud & DevOps
-- AWS (S3, EC2, Lambda, RDS, Glue)
-- Docker, Kubernetes, Terraform
-- CI/CD with GitHub Actions, Jenkins
 
-### 📊 Data Engineering
-- Apache Spark, Apache Airflow
-- ETL Pipelines, Data Lakehouses, Data Lakes, Data Warehousing
-- Kafka Streams, AWS Glue, Redshift
+### ☁️ Cloud & DevOps
+- ☁️ AWS (S3, EC2, Lambda, RDS, Glue)  
+- 🐳 Docker & 🧱 Kubernetes  
+- ⚙️ Terraform for infrastructure as code  
+- 🔄 CI/CD with GitHub Actions & Jenkins  
+
+### 📊 Data Engineering & Analytics
+- ⚡ Apache Spark for distributed processing  
+- 🛫 Apache Airflow for orchestration  
+- 🧪 ETL Pipelines, Data Lakes, Lakehouses, Warehousing  
+- 🔄 Kafka Streams for real-time data flow  
+- 🧬 AWS Glue & Redshift for data transformation & analytics  
+- 🔍 **Query Engines**: Dremio, Presto, Trino  
+- 🌐 **Query Federation**: Virtual datasets across cloud & on-prem with Dremio  
+
 
 ---
 
